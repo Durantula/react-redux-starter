@@ -1,0 +1,21 @@
+{
+  "name": "Matthew",
+  "version": "1.0.0",
+  "description": "React Redux Starter",
+  "main": "index.js",
+  "repository": "https://github.com/Durantula/react-redux-starter.git",
+  "author": "matthew <matt.duran@rea-group.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack --mode=development",
+    "prod": "webpack --mode=production"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1"
+  }
+}
